@@ -3,6 +3,10 @@
 **Last updated:** October 18, 2026
 **Effective date:** October 18, 2026
 
+> **Google Play name:** in Portuguese, the True Love app is listed as **Carta do Seu Verdadeiro Amor**. The Android package remains `com.trueloveapp.mobile`.
+
+*[Versão em português](./privacy-policy.pt-BR.html)*
+
 This Privacy Policy explains how the **True Love** app accesses, collects, uses, shares, and protects data. It applies to the Android app distributed on Google Play and should be read together with the Terms of Use.
 
 > **Summary:** True Love is an entertainment app. Your name, your answers, and the letter text stay on your device and are not sent to us. The app displays Google AdMob ads and, if you allow it, sends anonymous usage events to PostHog. We do not sell personal data.

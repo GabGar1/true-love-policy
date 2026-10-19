@@ -3,6 +3,10 @@
 **Última atualização:** 18 de outubro de 2026
 **Versão:** 2026-10-18
 
+> **Nome na Google Play:** no Brasil, o app True Love é publicado como **Carta do Seu Verdadeiro Amor**. O pacote Android continua sendo `com.trueloveapp.mobile`.
+
+*[English version](./terms-of-use.en.html)*
+
 Estes Termos de Uso ("Termos") regulam o uso do aplicativo **True Love** ("app"), operado por **Jama Tech**, com sede em **Curitiba, Paraná, Brasil** ("Jama Tech", "nós" ou "nosso"). Leia estes Termos e a **Política de Privacidade** antes de usar o app.
 
 ---

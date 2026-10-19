@@ -3,6 +3,10 @@
 **Última atualização:** 18 de outubro de 2026
 **Vigência:** 18 de outubro de 2026
 
+> **Nome na Google Play:** no Brasil, o app True Love é publicado como **Carta do Seu Verdadeiro Amor**. O pacote Android continua sendo `com.trueloveapp.mobile`.
+
+*[English version](./privacy-policy.en.html)*
+
 Esta Política de Privacidade descreve como o aplicativo **True Love** acessa, coleta, usa, compartilha e protege dados. Ela se aplica ao aplicativo para Android distribuído na Google Play e deve ser lida em conjunto com os Termos de Uso.
 
 > **Resumo:** o True Love é um app de entretenimento. Seu nome, suas respostas e o texto da carta ficam no seu aparelho e não são enviados para nós. O app exibe anúncios do Google AdMob e, se você autorizar, envia eventos anônimos de uso para o PostHog. Não vendemos dados pessoais.
